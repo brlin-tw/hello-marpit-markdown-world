@@ -1,0 +1,3 @@
+# The LicenseRef-Fair-use pseudo license
+
+Files under this pseudo license is used under the fair use principles.  You should evaluate whether your usage still applied under the same terms.

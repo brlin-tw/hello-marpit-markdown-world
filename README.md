@@ -30,6 +30,30 @@ $$
 
 ---
 
+## Two columns (left)
+
+![bg left](images/ubuntu.png)
+
+```markdown
+![bg left](images/ubuntu.png)
+```
+
+[Split backgrounds | Advanced backgrounds | Image syntax | Marpit Markdown](https://marpit.marp.app/image-syntax?id=split-backgrounds)
+
+---
+
+## Two columns (right)
+
+![bg right](images/ubuntu.png)
+
+```markdown
+![bg right](images/ubuntu.png)
+```
+
+[Split backgrounds | Advanced backgrounds | Image syntax | Marpit Markdown](https://marpit.marp.app/image-syntax?id=split-backgrounds)
+
+---
+
 ## Licensing
 
 Unless otherwise noted([comment headers](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml)), this product is licensed under [the 4.0 International version of the Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/), or any of its more recent versions of your preference.
