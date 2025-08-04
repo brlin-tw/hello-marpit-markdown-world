@@ -20,7 +20,7 @@ A demo and introduction to slides based on
 
 1. Install the official VSCode extension for Marpit Markdown.
 1. Open the `README.md` file in VSCode.
-1. Click the `Preview` button to open the preview window.
+1. Click the `Preview` button on the content pane toolbar to open the preview split pane.
 1. Done!
 
 ---
