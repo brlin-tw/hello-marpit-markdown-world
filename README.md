@@ -54,6 +54,16 @@ $$
 
 ---
 
+## References
+
+The following materials are referenced during the development of this project:
+
+- [Never use PowerPoint again - YouTube](https://www.youtube.com/watch?v=EzQ-p41wNEE)
+- [Marpit Markdown](https://marpit.marp.app/markdown)
+- [Marpit Markdown - Image syntax](https://marpit.marp.app/image-syntax)
+
+---
+
 ## Licensing
 
 Unless otherwise noted([comment headers](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml)), this product is licensed under [the 4.0 International version of the Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/), or any of its more recent versions of your preference.
