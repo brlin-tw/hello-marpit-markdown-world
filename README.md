@@ -7,7 +7,7 @@ math: latex
 
 # Hello Marpit Markdown world
 
-An demo and introduction to slides based on  
+A demo and introduction to slides based on  
 [Marpit Markdown](https://marpit.marp.app/markdown)
 
 <https://gitlab.com/brlin/hello-marpit-markdown-world>  
