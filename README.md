@@ -15,6 +15,15 @@ An demo and introduction to slides based on
 
 ---
 
+## How to see the slides?
+
+1. Install the official VSCode extension for Marpit Markdown.
+1. Open the `README.md` file in VSCode.
+1. Click the `Preview` button to open the preview window.
+1. Done!
+
+---
+
 ## Math support
 
 The answer is $2X$
